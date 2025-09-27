@@ -20,7 +20,7 @@ La información fue ingresada y gestionada en un archivo Excel, incluyendo:
 
 ---
 
-## 🛠 Habilidades demostradas
+##  Habilidades demostradas
 - Manejo avanzado de **Excel**: tablas, tablas dinámicas y gráficos.  
 - **Limpieza y estandarización de datos** (correos, teléfonos y nombres).  
 - **Organización de bases de datos** pequeñas y medianas.  
