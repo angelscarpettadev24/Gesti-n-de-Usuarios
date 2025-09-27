@@ -39,7 +39,7 @@ La información fue ingresada y gestionada en un archivo Excel, incluyendo:
 | % de usuarios activos    | 73.3%  |
 | % de usuarios inactivos  | 26.7%  |
 
-![Gráfico Circular Estadisticas Generales](Estadisticas_Generales.png)
+![Gráfico Circular Activos vs Inactivos](Estado_de_usuarios.png)
 
 ---
 
@@ -58,14 +58,6 @@ La información fue ingresada y gestionada en un archivo Excel, incluyendo:
 | Montería      | 1                 |
 
 ![Gráfico de Barras Usuarios por Ciudad](Distribucion-por-Cuidad.png)
-
----
-##  Estado de los Usuarios
-
-| Usuarios Activos         | 22     |
-| Usuarios Inactivos       | 8      |
-
-![Gráfico Circular Activos vs Inactivos](Estado_de_usuarios.png)
 
 ---
 
