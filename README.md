@@ -85,14 +85,23 @@ La información fue ingresada y gestionada en un archivo Excel, incluyendo:
 ---
 
 ##  Valor del Proyecto
-- **Organización clara:** columnas estructuradas en Excel (ID, Nombre, Email, Teléfono, Ciudad, Estado).  
-- **Calidad de datos:** estandarización de correos y teléfonos.  
-- **Reportes generados:** tablas dinámicas y gráficos en Excel.  
-- **Portafolio:** evidencia de capacidades en **entrada de datos, análisis básico y presentación de información**.
 
+| Aspecto | Detalle |
+|----------|----------|
+| **Organización clara** | Datos estructurados por columnas en formato tabular (ID, Nombre, Email, Teléfono, Ciudad, Estado). |
+| **Calidad de datos** | Estandarización de correos y teléfonos. |
+| **Reportes generados** | Tablas dinámicas y gráficos en Excel. |
+| **Análisis y comunicación** | Resumen general con conclusiones sobre la Gestion de Usuarios. |
+| **Presentación estructurada** | Formato limpio y legible para incluir en portafolios de Data Entry o análisis básico. |
 ---
 
 ##  Archivos Incluidos
-- `usuarios.xlsx` → Base de datos original con 30 registros.  
-- `resumen.xlsx` → Hoja de resumen con tablas dinámicas y gráficos.  
-- `README.md` → Documentación del proyecto, mostrando habilidades en **data entry, limpieza de datos y generación de reportes básicos**.
+
+| Archivo | Descripción |
+|----------|-------------|
+| **usuarios.xlsx** | Base de datos principal con fórmulas automáticas. |
+| **Reporte de Gestion de Usuarios.pdf** | Informe formal con gráficos y conclusiones. |
+| **README.md** | Documentación del proyecto con objetivos, análisis y habilidades demostradas. |
+| **Estado_de_usuarios.png** |  Visualizacion exportada para insertar en el README. |
+| **Estado_de_usuarios.png** |  Visualizacion exportada para insertar en el README. |
+
